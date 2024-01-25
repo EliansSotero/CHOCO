@@ -5,7 +5,7 @@ def command(input_value, thread_userid=None):
         "name": "sim",
         "version": "1.0.1",
         "description": "Talk to sim. (PH)",
-        "credits": "Kenlie Jugarap",
+        "credits": "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
         "cooldown": "2"
     }
     if input_value == "__config__":
