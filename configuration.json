@@ -1,9 +1,9 @@
 {
    "CONFIG": {
       "BOT_INFO": {
-         "PREFIX": ".",
+         "PREFIX": "🍫",
          "ADMIN_ID": [
-            "100089164803882"
+            "100093264523210"
          ],
          "APPSTATE": "appstate.json"
       }
