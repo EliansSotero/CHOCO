@@ -4,7 +4,7 @@ def command(input_value, thread_userid=None):
         "name": "catfacts",
         "version": "1.0.2",
         "description": "get random catfacts everyday.",
-        "credits": "Mahiro chan",
+        "credits": "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
         "cooldown": "2"
     }
     if input_value == "__config__":
