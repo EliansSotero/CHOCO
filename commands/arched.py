@@ -3,7 +3,7 @@ def command(input_value, thread_userid=None):
     config = {
         "name": "arched",
         "version": "1.0.0",
-        "description": "ask anything developed by Liane",
+        "description": "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
         "credits": "Liane",
         "cooldown": "2"
     }
